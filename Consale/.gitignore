@@ -1,0 +1,9 @@
+*.obj
+*.pdb
+*.o
+*.out
+*.user
+*.user.*
+*.suo
+*.log
+.vscode/
