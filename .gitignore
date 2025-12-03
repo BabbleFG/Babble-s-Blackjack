@@ -1,0 +1,11 @@
+*.obj
+*.pdb
+*.exe
+*.o
+*.out
+*.user
+*.user.*
+*.suo
+*.log
+*.vcxproj.*
+/.vscode/
